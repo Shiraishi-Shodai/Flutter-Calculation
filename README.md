@@ -1,16 +1,11 @@
-# calculation
+###ざっくりとした要件
 
-A new Flutter project.
+- それぞれの演算ボタンのうち一つを選択し、計算方法を選択
+- 表示している式の演算子を選択した演算子に変化させる
+- 入力欄に値を入力
+- 入力した値を受け取る
+- 受け取った値を使って選択した演算ボタンに合致する計算方法で計算
+- 計算ボタンを押すと答えをイコールの横に表示される
+- 答えの欄はデフォルトでは空欄
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+□　+　□ の答えは □ です。的なものもあると便利かも
